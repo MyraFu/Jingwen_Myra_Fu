@@ -20,9 +20,9 @@
 
 - 🌱 I'm currently learning **Modern Data Structures, Data Analysis, Quantitative Theory and Methodology for the Social Sciences**
 
-- :page_with_curl:	planning to take **Natural Language Processing, Machine Learning, Data Science in Fin & Insurance...** next semester
+  **Natural Language Processing, Machine Learning, and Time Series**
 
-- :woman_technologist: I'm passionate about Python, R, and Econometrics.
+- :woman_technologist: I'm passionate about Python, R, SQL, and Econometrics.
 
 - :dart: I'm actively looking for opportunities as a business analyst, data analyst 
 
@@ -30,7 +30,7 @@
 
 - :brain:	Skill(s): Python, R, Excel, MySQL
 
-- 📫 How to reach me **jf3483@columbia.edu**
+- 📫 How to reach me **jf3483@columbia.edu; fjw0328@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jingwen-fu-8498b1206/](https://www.linkedin.com/in/jingwen-fu-8498b1206/)
 
