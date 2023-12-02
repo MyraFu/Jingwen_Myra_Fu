@@ -18,9 +18,7 @@
 
 - :mortar_board: Graduated with Economics major at the **University of California, San Diego**  21'
 
-- 🌱 I'm currently learning **Modern Data Structures, Data Analysis, Quantitative Theory and Methodology for the Social Sciences**
-
-  **Natural Language Processing, Machine Learning, and Time Series**
+- 🌱 I'm currently learning **Modern Data Structures, Data Analysis, Quantitative Theory and Methodology for the Social Sciences, Natural Language Processing, Machine Learning, and Time Series**
 
 - :woman_technologist: I'm passionate about Python, R, SQL, and Econometrics.
 
